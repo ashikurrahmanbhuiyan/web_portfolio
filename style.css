@@ -1,0 +1,16 @@
+h1{
+    font-family: 'Big Shoulders Stencil Display', cursive;
+    font-size: 50px;
+}
+.highlight{
+    color: darkgreen;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 100%;
+}
