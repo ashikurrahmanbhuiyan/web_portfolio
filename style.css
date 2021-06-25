@@ -24,6 +24,7 @@ h1{
     float: left;
     margin-left: 5%;
     padding-left: 5%;
+    background-color: white;
 }
 .half-width img{
     width: 100%;
@@ -67,7 +68,7 @@ h1{
 }
 #full-stack{
     border-left: 7px solid;
-    border-image: linear-gradient(180deg, lightSalmon,tomato);
+    border-image: linear-gradient(180deg, lightSalmon,rgb(253, 75, 44));
     border-image-slice: 1;
 }
 #full-stack1{
